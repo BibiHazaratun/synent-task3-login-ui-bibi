@@ -15,7 +15,8 @@ A clean, modern login interface with a split-screen layout — a branding panel 
 ## Tech
 - Plain **HTML5**, **CSS3**, and a small amount of vanilla **JavaScript** (password toggle + form handling)
 - No framework, no libraries
-
+## Note
+This is a front-end only UI demo — form submission shows a confirmation alert instead of connecting to a real authentication backend.
 ## Live Demo
 [Live Demo](https://bibihazaratun.github.io/synent-task3-login-ui-bibi/)
 
