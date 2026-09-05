@@ -182,9 +182,10 @@ body {
 
 .checkbox-label input {
   accent-color: var(--teal);
-  width: 15px;
-  height: 15px;
+  width: 16px;
+  height: 16px;
   cursor: pointer;
+  border-radius: 3px;
 }
 
 .forgot-link {
