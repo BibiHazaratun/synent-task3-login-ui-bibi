@@ -17,7 +17,7 @@ A clean, modern login interface with a split-screen layout — a branding panel 
 - No framework, no libraries
 
 ## Live Demo
-[Add your GitHub Pages link here once deployed]
+[Live Demo](https://bibihazaratun.github.io/synent-task3-login-ui-bibi/)
 
 ## Author
 Bibi Hazaratun Nesa — CSE, Premier University, Chittagong
